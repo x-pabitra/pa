@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../C LEARNING"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"PRIME.C": "cpp"
+		}
+	}
+}
